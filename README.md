@@ -1,6 +1,6 @@
 # Azimuth Gatsby Theme
 
-Azimuth is a sleek, modern SaaS site for Gatsby. It uses a section builder with blocks for hero, features, faq, pricing, reviews, contact and more.
+Azimuth is a sleek, modern SaaS theme for Gatsby. It uses a section builder with blocks for hero, features, faq, pricing, reviews, contact and more.
 
 [Live Demo](https://themes.stackbit.com/demos/azimuth/?demo=jstazimuthgatsby)
 
